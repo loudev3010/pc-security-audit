@@ -49,4 +49,4 @@ Windows 10 or 11. Works on Windows PowerShell 5.1 (built in) and PowerShell 7.
 
 ## Licence
 
-No licence is set yet. Add one (for example MIT) if you want others to reuse the code.
+MIT. See the [LICENSE](LICENSE) file.
